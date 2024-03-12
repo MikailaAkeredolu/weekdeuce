@@ -3,7 +3,7 @@ package sample;
 public class Playground { //start of my class file
     public static void main(String[] args) {
 
-            int age = 9;
+            int age = 90;
             if(age > 18){
                 System.out.println("You can party with us at YearUp");
             } else if(age == 18){
